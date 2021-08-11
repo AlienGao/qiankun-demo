@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-grow: 1;
+}
+.App ol {
+  margin: 0 auto;
+}
